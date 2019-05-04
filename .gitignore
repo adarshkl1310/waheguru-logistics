@@ -1,0 +1,11 @@
+local-config.php
+wp-content/uploads/2017/10
+wp-content/uploads/2017/11
+wp-content/uploads/2018
+.idea
+nbproject
+.DS_Store
+*.log
+wp-content/cache
+node_modules
+bower_components
